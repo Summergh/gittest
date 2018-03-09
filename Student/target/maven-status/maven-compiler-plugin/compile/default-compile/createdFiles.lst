@@ -1,0 +1,5 @@
+cn\gh\service\impl\IUserInfoServiceImpl.class
+cn\gh\service\IUserInfoService.class
+cn\gh\entity\Userinfo.class
+cn\gh\util\JSONUtils.class
+cn\gh\dao\IUserInfo.class
