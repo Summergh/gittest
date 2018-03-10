@@ -17,7 +17,11 @@ public class Mytest {
         PageInfo<Userinfo> byPage = userService.findByPage(userinfo, 1, 2);
         System.out.println(JSONUtils.toJSON(byPage)+"-----123");
 		System.out.println(JSONUtils.toJSON(byPage)+"-----123");
-		System.out.println(JSONUtils.toJSON(byPage)+"-----123");System.out.println(JSONUtils.toJSON(byPage)+"-----123");
+		System.out.println(JSONUtils.toJSON(byPage)+"-----123");
+		System.out.println(JSONUtils.toJSON(byPage)+"-----123");
+				System.out.println(JSONUtils.toJSON(byPage)+"-----123");
+						System.out.println(JSONUtils.toJSON(byPage)+"-----123");
+								System.out.println(JSONUtils.toJSON(byPage)+"-----123");
     }
 
 
