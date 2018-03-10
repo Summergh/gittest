@@ -16,7 +16,7 @@ public class Mytest {
         Userinfo userinfo=new Userinfo();
         PageInfo<Userinfo> byPage = userService.findByPage(userinfo, 1, 2);
         System.out.println(JSONUtils.toJSON(byPage)+"-----123");
-		System.out.println(JSONUtils.toJSON(byPage)+"-----12222223333233");
+		System.out.println(JSONUtils.toJSON(byPage)+"-----12222222223");
 		System.out.println(JSONUtils.toJSON(byPage)+"第二次合并代码");
     }
 
